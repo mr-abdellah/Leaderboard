@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# # To-do-list
+# # Leaderboard
 
 In this project, we built a
 
