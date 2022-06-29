@@ -1,5 +1,5 @@
 import './style.css';
-import getData from './module/Score.js';
+import getData from './module/get.js';
 import getResponse from './module/post.js';
 
 const refreshBtn = document.getElementById('refresh');
