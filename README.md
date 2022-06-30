@@ -17,8 +17,6 @@ or
 to get a local copy , clone the repository using git clone
 (https://github.com/mr-abdellah/Leaderboard.git)
 
-> Awesome books: plain JavaScript with objects and modules
-
 ### Step to run the project after cloning :
 
 - From your terminal :
