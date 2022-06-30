@@ -6,8 +6,8 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-  background: rgb(188,174,238);
-  background: linear-gradient(90deg, rgba(188,174,238,1) 0%, rgba(77,31,195,1) 100%);
+  background: rgb(188, 174, 238);
+  background: linear-gradient(90deg, rgba(188, 174, 238, 1) 0%, rgba(77, 31, 195, 1) 100%);
   color: #fff;
   font-family: 'Poppins', sans-serif;
   text-align: center;
@@ -69,6 +69,6 @@ button {
 
 button:hover {
   background-color: #6c47cf;
-  color:#fff;
+  color: #fff;
   border-radius: 5%;
 }
