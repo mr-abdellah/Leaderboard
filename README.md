@@ -4,7 +4,7 @@
 
 In this project, we built a
 
-# # Do you wanna try it ? no problem just enter here : (https://mr-abdellah.github.io/Leaderboard/)
+# # Do you wanna try it ? no problem just [enter here](https://mr-abdellah.github.io/Leaderboard/) 
 
 ## Getting Started
 
@@ -15,15 +15,21 @@ or
 
 ### Clone it in your local machine using GIT
 to get a local copy , clone the repository using git clone
-(https://github.com/mr-abdellah/Leaderboard.git)
+
 
 ### Step to run the project after cloning :
 
 - From your terminal :
 - Run this codes :
--1- npm install
--2- npm run build
--3- npm start
+
+
+-1- git clone ``https://github.com/mr-abdellah/Leaderboard.git``
+
+-2- npm install
+
+-3- npm run build
+
+-4- npm start
 
 ## Built With
 
